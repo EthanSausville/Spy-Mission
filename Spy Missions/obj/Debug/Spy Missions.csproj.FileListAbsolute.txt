@@ -1,0 +1,9 @@
+C:\Users\Ethan\Documents\My Code\Spy Missions\Spy Missions\bin\Spy Missions.dll.config
+C:\Users\Ethan\Documents\My Code\Spy Missions\Spy Missions\bin\Spy Missions.dll
+C:\Users\Ethan\Documents\My Code\Spy Missions\Spy Missions\bin\Spy Missions.pdb
+C:\Users\Ethan\Documents\My Code\Spy Missions\Spy Missions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ethan\Documents\My Code\Spy Missions\Spy Missions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ethan\Documents\My Code\Spy Missions\Spy Missions\obj\Debug\Spy Missions.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Documents\My Code\Spy Missions\Spy Missions\obj\Debug\Spy Missions.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\My Code\Spy Missions\Spy Missions\obj\Debug\Spy Missions.dll
+C:\Users\Ethan\Documents\My Code\Spy Missions\Spy Missions\obj\Debug\Spy Missions.pdb
